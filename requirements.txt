@@ -1,3 +1,3 @@
 flask
-playwright
 gunicorn
+playwright==1.58.0
